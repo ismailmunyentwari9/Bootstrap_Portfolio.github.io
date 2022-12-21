@@ -1,0 +1,28 @@
+body {
+    background-color: #e5e5e5;
+}
+
+#upper-part {
+    height: 115vh;
+    background-color: #fff;
+    background-image: url("./sources/Header\ bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom-left-radius: 4rem;
+    margin-bottom: 10%;
+    padding-bottom: ;
+    background-position: center;
+    background-position-y: 6rem;
+}
+
+nav {
+    height: auto;
+    background-color: blue;
+    width: 100vw;
+}
+
+nav .col-sm-12 {
+    height: auto;
+
+}
+
